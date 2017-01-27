@@ -14,8 +14,7 @@
     "snippets"
   ],
   "author":
-    ["Filipe Linhares"],
-    ["Tiago"]
+    ["Filipe Linhares", "Tiago", "Winson Si"]
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/filipelinhares/vuejs-sublime-snippets/issues"
